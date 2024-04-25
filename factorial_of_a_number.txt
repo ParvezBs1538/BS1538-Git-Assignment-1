@@ -11,3 +11,5 @@ int main()
     cout << result << endl;
 }
 // change for create conflict from main branch
+// change for creating conflict from feature-branch
+// resolve conflict
