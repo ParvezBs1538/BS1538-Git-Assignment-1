@@ -10,14 +10,8 @@ int main()
     }
     cout << result << endl;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
 // change for creating conflict from feature-branch
-=======
 // change for create conflict from main branch
->>>>>>> 972d610 (change code for cereate conflict from main branch)
-=======
 // change for create conflict from main branch
 // change for creating conflict from feature-branch
 // resolve conflict
->>>>>>> f045cccfd79108cd2287bc372e03f06ddba816a4
